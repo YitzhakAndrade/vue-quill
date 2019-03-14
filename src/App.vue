@@ -1,5 +1,15 @@
 <template>
   <div id="app">
+    <div style="float: right;">
+      <a href="https://github.com/YitzhakAndrade/vue-quill" target="_blank">
+        <img
+          width="149"
+          height="149"
+          src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149"
+          alt="Fork me on GitHub"
+        >
+      </a>
+    </div>
     <div>
       <section class="s1-U__width--900px s1-U__pd16" style="margin: 0 auto;">
         <div>

@@ -1,6 +1,6 @@
 # quill-vue
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cabe5663-6c34-4ca1-ae28-7775a02367ce/deploy-status)](https://app.netlify.com/sites/vue-quill/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cabe5663-6c34-4ca1-ae28-7775a02367ce/deploy-status)](https://vue-quill.netlify.com/)
 
 ## Project setup
 ```
